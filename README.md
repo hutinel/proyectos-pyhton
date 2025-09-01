@@ -3,6 +3,6 @@ Repositorio que contiene mis proyectos, ejercicios y scripts en Python. Incluye 
 
 ### Proyectos
 
-* [keygen-python](proyectos-python/keygen-python)
+* [keygen-python](/keygen-python)
 
 * [Nombre del Proyecto 2](enlace-a-la-carpeta)
